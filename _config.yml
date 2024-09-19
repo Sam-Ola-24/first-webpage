@@ -1,1 +1,18 @@
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-cayman
+
+title: [My First Web page]
+description: [A simple HTML webpage hosted on Github Pages]
+baseurl: --
+paginate: 1
+values:
+  layout: single
+
+
+# About
+author:
+  name: Akinola O
+  url: https://sam-ola-24.github.io/first-webpage/about.html
+  baseurl: --
+
+
+include: ["_pages"]
