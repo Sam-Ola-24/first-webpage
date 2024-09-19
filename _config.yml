@@ -1,18 +1,22 @@
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [My First Web page]
 description: [A simple HTML webpage hosted on Github Pages]
-baseurl: --
-paginate: 1
-values:
-  layout: single
+
+# baseurl: --
+# paginate: 1
+# values:
+#   layout: single
 
 
-# About
-author:
-  name: Akinola O
-  url: https://sam-ola-24.github.io/first-webpage/about.html
-  baseurl: --
+# # About
+# author:
+#   name: Akinola O
+#   url: https://sam-ola-24.github.io/first-webpage/about.html
+#   baseurl: --
 
 
-include: ["_pages"]
+# include: ["_pages"]
